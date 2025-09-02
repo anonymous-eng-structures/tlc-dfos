@@ -37,7 +37,7 @@ This is the **first release** of **TLC_DFOS**, a Windows desktop application for
 
 2. **Choose** analysis time: Integral Peak, First Measurement, or Manual Entry 
 
-3. **Enter**$\Delta \varepsilon_c$ and $l_{ol}$ parameters (defaults provided). 
+3. **Enter** $\Delta \varepsilon_c$ and $l_{ol}$ parameters (defaults provided). 
 
 4. **View** plots. 
 
