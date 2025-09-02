@@ -25,6 +25,8 @@ This is the **first release** of **TLC_DFOS**, a Windows desktop application for
   - **Columns 1..(n-1)**: strain values (column headers = sensor positions in mm, numeric) 
 
   - **Column n**: time in seconds
+ 
+    
     ![Alt text](table.png)
 
  
